@@ -19,7 +19,7 @@ The system is powered by **Groq LLM (Llama 3.3 70B)** and provides a user-friend
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 TravelGenie-AI helps users by:
 
@@ -32,7 +32,7 @@ TravelGenie-AI helps users by:
 
 ---
 
-# 🚀 Features
+# Features
 
 - 🤖 Multi-Agent AI Architecture
 - 🌍 Destination Research
@@ -409,7 +409,3 @@ Plan a 5-day family trip to Ooty with a budget of ₹30,000.
 **R. Sugumar, M.B.A.,**
 📧 **Email:** contact.sugumarai@gmail.com
 
-
----
-
-## ⭐ If you like this project, don't forget to give it a Star on GitHub!
