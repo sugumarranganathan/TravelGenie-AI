@@ -9,6 +9,10 @@
 
 ---
 
+https://github.com/sugumarranganathan/TravelGenie-AI/blob/main/TravelGenie_AI.ipynb
+
+
+
 ## 📖 Overview
 
 **TravelGenie-AI** is an intelligent **Multi-Agent AI Travel Planning Assistant** that automates the complete travel planning process using multiple AI agents.
